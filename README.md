@@ -1,2 +1,2 @@
 # BMI_Calculator
-It can calculate the BMI of a person.
+It can calculate the BMI of the person.
